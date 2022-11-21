@@ -19,4 +19,4 @@ And run the development server:
 
 npm run dev
 
-Doocument : https://shrtco.de/FyxxDd
+Doocument Diagram: https://shrtco.de/FyxxDd
