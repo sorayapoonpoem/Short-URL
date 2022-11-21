@@ -1,22 +1,28 @@
 ## Getting Started
+![image](https://user-images.githubusercontent.com/72434711/202987793-4b88547a-a8a1-4a28-9f65-f954a4205ad3.png)
 
-First, install :
+First, Clone whit HTPPS
 
-npm install @mui/material @emotion/react @emotion/styled
+Open Command prompt :
+  git clone https://github.com/sorayapoonpoem/Short-URL.git
 
-npm i vue-axios
+install in VSCode:
 
-npm i react-copy-to-clipboard
+  npm install @mui/material @emotion/react @emotion/styled
 
-npm install react-router-dom
+  npm i vue-axios
 
-npm i qrcode.react
+  npm i react-copy-to-clipboard
+
+  npm install react-router-dom
+
+  npm i qrcode.react
 
 Second open phpmyadmin :
-import shout url.sql
+  import shout url.sql
 
 And run the development server:
 
-npm run dev
+  npm run dev
 
 Doocument Diagram: https://shrtco.de/FyxxDd
